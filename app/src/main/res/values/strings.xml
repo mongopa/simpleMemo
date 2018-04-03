@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SimpleMemo</string>
+
+    <string name="db_memo">strMemo</string>
+
+    <!--ステータス-->
+    <string name="status_add">新しい単語の追加</string>
+    <string name="status_change">登録した単語の修正</string>
+
+    <!--インテントで渡すキー-->
+    <string name="intent_key_status">intent_key_status</string>
+    <string name="intent_key_memo">intent_key_memo</string>
+    <string name="intent_key_position">intent_key_position</string>
+</resources>
